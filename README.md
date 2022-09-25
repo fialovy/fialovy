@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fialovy . That's Czech for 'Violet', although sadly the language was not carried to my generation. In keeping with the provided template...
+- 👀 I’m interested in making my living and being creative! Also eating cake.
+- 🌱 I’m currently learning how to Django, as a former Flasker.
+- 💞️ I’m looking to collaborate on ... er, nothing outside of my neat day job. 
+- 📫 How to reach me ...anything but a phone call?
